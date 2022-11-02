@@ -3,7 +3,7 @@ from data_preprosesing import custom_input_prediction
 
 st.header("Type of CyberBully")
 
-st.image("rename.png")
+# st.image("rename.png")
 
 text = st.text_area("Enter tweet here", placeholder="Tweet")
 

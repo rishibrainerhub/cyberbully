@@ -11,7 +11,7 @@ b = st.button("Check")
 
 if b:
     if text == "":
-        st.info("'LMAO' enter some text dwag")
+        st.info("enter some text")
     else:
         output = custom_input_prediction(text)
         if output == "Not Cyberbullying":

@@ -20,3 +20,5 @@ if b:
             st.warning(output)
 
 
+st.markdown(
+        '''### GitHub Repository: [cyberbully](https://github.com/rishibrainerhub/cyberbully)''')

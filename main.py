@@ -18,7 +18,3 @@ if b:
             st.success(output)
         else:
             st.warning(output)
-
-
-st.markdown(
-        '''### GitHub Repository: [cyberbully](https://github.com/rishibrainerhub/cyberbully)''')
